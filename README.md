@@ -1,4 +1,4 @@
-# .NET Project with ArrayList
+# BookRack Backend
 
 This is a .NET project demonstrating the use of `BookList` to manage collections of books. The project is built using C# and the .NET framework sdk 8.
 
